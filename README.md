@@ -1,2 +1,3 @@
-# universityCourses
-This repo is a collection of notes, projects, and assignments from the university courses I’ve taken. 
+# 🎓 Uni Programming Repo 💻
+
+A collection of my university programming coursework—notes, assignments, and projects. Some code is great, some is… an adventure. Enjoy!
